@@ -47,7 +47,7 @@ CompetitionDistance: Distance to nearest competitor
 CompetitionOpenSince: Date when competitor opened
 Promo2 & Promo2Since: Continuing or interval-based promotions
     
-<b style="color:#34495e;">Outcome:</b>
+<b style="color:#34495e;">Outcome:</b><br>
 ✅ Build a robust predictive model to forecast daily sales.
 ✅ Help the sales department improve planning and strategy.
 ✅ Enable targeted promotions and optimize resource allocation.
