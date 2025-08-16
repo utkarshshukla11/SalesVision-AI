@@ -29,10 +29,10 @@ Learn from 1115 stores’ historical data
 Incorporate seasonality patterns, holidays, promotions, and competition
 Help businesses prepare in advance for demand fluctuations
 
-<b style="color:#34495e;">Inputs & Features Used</b>
+<b style="color:#34495e;">Inputs & Features Used</b> <br>
 My act as a <b>data scientist</b> in a company. The HR team provides employee data and asks me to build a model to predict which employees are more likely to leave.
 
-<b style="color:#34495e;">The dataset includes a wide range of features impacting sales:</b>
+<b style="color:#34495e;">The dataset includes a wide range of features impacting sales:</b><br>
 Transaction ID: Combination of Store and Date
 Store ID: Unique identifier for each store
 Sales: Target variable (daily sales)
