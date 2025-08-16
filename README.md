@@ -44,11 +44,7 @@ Promo2 & Promo2Since: Continuing or interval-based promotions
 ✅ Help the sales department improve planning and strategy.
 ✅ Enable targeted promotions and optimize resource allocation.
 ✅ Strengthen customer satisfaction by ensuring demand is met effectively.
-<hr style="border: none; height: 1px; background-color: #ddd; margin: 15px 0;">
-<span style="display:block; text-align:right; font-style:italic; color:#7f8c8d; font-size:14px;">
-— Authored by <b style="color:#ff6f61;">Utkarsh Shukla</b>
-</span>
----
+
 
 ## ⚙️ Tech Stack
 - **Language:** Python  
